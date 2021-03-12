@@ -1,0 +1,3 @@
+[submodule "Aruduino-Motor-Control"]
+	path = Aruduino-Motor-Control
+	url = https://github.com/codamin/Aruduino-Motor-Control.git
