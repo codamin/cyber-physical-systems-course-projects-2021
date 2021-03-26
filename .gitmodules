@@ -4,3 +4,6 @@
 [submodule "Arduino-IOT"]
 	path = Arduino-IOT
 	url = https://github.com/codamin/Arduino-IOT.git
+[submodule "Android-Game-LegendofBounca"]
+	path = Android-Game-LegendofBounca
+	url = https://github.com/hoenza/Android-Game-LegendofBounca.git
